@@ -1,0 +1,74 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing:border-box; /* isse shape me rhga bahar ni jyfa */
+   
+}
+
+.box{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    
+
+}
+body{
+    background-color: #ebd6fb;
+}
+
+.container{
+    width:1200px;
+    height: 800px;
+    background-color: black;
+    margin:80px auto;/* dono side se box k bagar spacing dega */
+     /* box ke andar spacing dega */
+     padding: 40px;
+     
+}
+
+.box{
+    width: 600px;
+    height: 200px;
+    background-color: #f0f0f0;
+}
+.box_container{
+    display:flex;
+}
+.box1{
+    background-color: aqua;
+
+}
+.box2{
+    background-color: rgb(66, 30, 52);
+
+}
+.box3{
+    background-color: rgb(60, 152, 54);
+
+}
+.box4{
+    background-color: rgb(81, 244, 32);
+
+}
+
+.box5{
+    background-color: rgb(21, 225, 225);
+
+}
+.box6{
+    background-color: rgb(235, 197, 48);
+
+}
+.box7{
+    background-color: rgb(210, 79, 13);
+
+}
+.box8{
+    background-color: rgb(94, 36, 161);
+
+}
+@media screen and (width >1200){
+    .container{
+        
+    }
+}

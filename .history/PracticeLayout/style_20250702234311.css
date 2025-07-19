@@ -1,0 +1,35 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing:border-box; /* isse shape me rhga bahar ni jyfa */
+   
+}
+
+.box{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    
+
+}
+body{
+    background-color: #ebd6fb;
+}
+
+.container{
+    width:1200px;
+    height: 800px;
+    background-color: black;
+    margin:80px auto;/* dono side se box k bagar spacing dega */
+     /* box ke andar spacing dega */
+     padding: ;
+}
+
+.box{
+    width: 600px;
+    height: 200px;
+    background-color: #f0f0f0;
+}
+.box_container{
+    display:flex;
+}

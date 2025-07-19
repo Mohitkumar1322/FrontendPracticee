@@ -1,0 +1,13 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing: ;
+
+}
+
+
+.container{
+    background-color: #c7c7f1;
+    min-height: 100vh;
+
+}

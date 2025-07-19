@@ -1,0 +1,22 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing:border-box; /* isse shape me rhga bahar ni jyfa */
+   
+}
+
+.box{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    
+
+}
+body{
+    background-color: #ebd6fb;
+}
+
+.container{
+    width:1200px;
+    
+}

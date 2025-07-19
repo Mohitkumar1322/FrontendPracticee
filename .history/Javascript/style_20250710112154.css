@@ -1,0 +1,33 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 30px;
+  line-height: 1.6;
+}
+
+.heading {
+  color: #2c3e50;
+}
+
+.para {
+  color: #555;
+  margin-top: 10px;
+}
+
+#btn {
+  padding: 10px 20px;
+  margin-top: 20px;
+  background-color: #3498db;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+#btn:hover {
+  background-color: #2980b9;
+}
+
+#box {
+  margin-top: 20px;
+  padding: 10px;
+  background-color: #f4f4f4;
+}
