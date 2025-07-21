@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0; 
+    box-sizing: border-box;
+}
+body{
+    background-color: #548687;
+    text-align: center;
+}
+.container{
+   
+
+    height: 70vh;
+    
+}
+
+.game{
+    height: 60vmin;
+    width: 60vmin;
+    display: flex;
+    flex-wrap: wrap; 
+    /* this will create a grid-like structure and allow the boxes to wrap into new lines as needed
+     */
+     justify-content: center;
+     
+
+}
+
+.box{
+    height: 18vmin;
+    width: 18vmin;
+
+}
